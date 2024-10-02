@@ -1,2 +1,2 @@
 # git-pulling-practice
-Sangida is at Marcy Lab today!
+Sangi for short
