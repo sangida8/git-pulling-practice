@@ -1,2 +1,3 @@
-# git-pulling-practice
-Sangi for shortgit git 
+# git-pulling-practice at marcy
+Sangi for short 
+no
